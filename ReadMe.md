@@ -1,1 +1,2 @@
-Game that is played using console. Simply run "node RPGgame.js" in the console and the game will walk you through what to do. The goal is to kill 5 Monsters to save the village.# rpgGame
+Designed in NodeJS to challenge my knowledge of Javascript. The goal is to kill 5 Monsters to save the village. This project will remain untouched so that I can come back at a later date and see the type of code I wrote. 
+
